@@ -1,0 +1,16 @@
+-- Your Database_Name_ByID table
+Database_Name_ByID = {
+    items = {
+        { itemID = 0, name = "Blank" },
+        { itemID = 1, name = "Blank Seed" },
+        { itemID = 2, name = "Dirt" },
+        { itemID = 3, name = "Dirt Seed" },
+        { itemID = 4, name = "Lava" },
+        { itemID = 5, name = "Lava Seed" },
+        { itemID = 6, name = "Main Door" },
+        { itemID = 7, name = "Main Door Seed" },
+        { itemID = 8, name = "Bedrock" },
+		{ itemID = 8641, name = "FENCE" },
+        { itemID = 9, name = "Bedrock Seed" }
+    }
+}
